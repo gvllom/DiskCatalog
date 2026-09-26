@@ -3,13 +3,13 @@
     <channel>
         <title>Disk Catalog</title>
         <item>
-            <title>1.6.1</title>
-            <pubDate>Fri, 25 Sep 2026 16:04:00 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <title>1.7</title>
+            <pubDate>Sat, 26 Sep 2026 11:24:00 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/gvllom/DiskCatalog/releases/download/v1.6.1/DiskCatalog-1.6.1.zip" length="1402645" type="application/octet-stream" sparkle:edSignature="BzKVlywerq2/2CAZspGLz3Ojv8VPzes1D99Akox+uEZeD/1Rp4v9jcI36vdrmytPtP/oJATUCCwASolHsBNeDA=="/>
+            <enclosure url="https://github.com/gvllom/DiskCatalog/releases/download/v1.7/DiskCatalog-1.7.zip" length="1424739" type="application/octet-stream" sparkle:edSignature="Oyo6OdnISXmikKuV6c68q+Mm4sFusa68RYNV2SLTdjyzMPlBlXAX4ZZMx3dY6F3DlqwJF6sYpAP+9YjbJm1sAQ=="/>
         </item>
     </channel>
 </rss>
