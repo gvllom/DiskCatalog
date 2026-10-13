@@ -3,6 +3,15 @@
     <channel>
         <title>Disk Catalog</title>
         <item>
+            <title>1.8.1</title>
+            <pubDate>Tue, 13 Oct 2026 10:05:07 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/gvllom/DiskCatalog/releases/download/v1.8.1/DiskCatalog-1.8.1.zip" type="application/octet-stream" sparkle:edSignature="ANiOBRhTOk0IjFh4U4HelvHD7REQSFTqN87sI58eJAkGylg7pfDb55QNejqgNpYbszSWRlMnUjKf9Mr3fFz4Cg==" length="1460926"/>
+        </item>
+        <item>
             <title>1.8</title>
             <pubDate>Mon, 12 Oct 2026 18:30:06 +0200</pubDate>
             <sparkle:version>5</sparkle:version>
